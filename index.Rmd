@@ -1,0 +1,40 @@
+---
+title: "biostat776-intro-zhengting-he"
+author: "Zhengting (Johnathan) He"
+date: "2021/8/31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About me
+
+### Overview
+
+Hi all, my name is **Zhengting (Johnathan) He**. I am a first year **MHS student in Epidemiology** under the genetic epidemiology track.
+
+### Training
+
+I finish my undergraduate studies at a **dental school** in my home country and graduated with a MBBS. I was initially admitted to the 2020 fall cohort at our school, and decided to defer my studies to this fall due to the unprecedented COVID-19 outbreak and personal reasons. During my gap year, I worked for a research group in **global health research**.
+
+### Research interests
+
+I am currently interested in genetics and epigenetics at population level, the **genetic causes** of chronic health outcomes, and the **interaction between genetic and environmental factors**. E.g., to what extent can genetic deficiency inborn be attenuated by healthy behaviors and lifestyles.
+
+### Statistics, programming, and data analysis experience
+
+I had more than one year's experience in R programming and approximately one year's experience in STATA. I have the experience using `tidyverse` package for data cleaning and transformation, data visulization, and else. I had minor experience using the `data.table` package. I had experience fitting survival analysis models using `survival` package and visulize the results using `survminer` package. I had experience fitting fixed and random effect meta analysis model using `metafor` package.
+
+# Fun facts about myself
+
++ I love playing piano very much - though not having the opportunity to buy one after relocated in Baltimore currently.
++ I have not yet learned how to drive a car.
++ I love cats but not dogs.
++ I love old things - old movies, old themes, old songs, whatever.
++ I started a trip just at the very beginning of the COVID-19 from China to Bali island in Indonesia, with fewer than 100 new cases when we started the trip, and ends up with over 1,000 new cases when we finished the trip, globally.
+
+# Websites
+
+I just want to post the link of the course [R Programming](https://www.coursera.org/learn/r-programming) where I started to learn how to use R, which is taught by Prof. Roger Peng at Biostats department. Big fun of the course.
